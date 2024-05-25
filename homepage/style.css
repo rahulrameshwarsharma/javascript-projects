@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    border: border-box;
+}
+
+.header-bar {
+    height: 10vh;
+    width: 100%;
+    background-color: rgb(147, 216, 216);
+}
+h1 {
+    margin: 15px;
+}
+.main-content {
+    height: 100%;
+    width: 100%;
+    text-align: center;
+    background-color: azure;
+    margin: 15px;
+}
+.main-content a {
+    background-color: aqua;
+    display: inline-block;
+    text-decoration: none;
+    margin: 20px;
+    width: 33.33%;
+    height: 30px;
+    padding: 5px;
+    border: 2px solid grey;
+    border-radius: 15%;
+}
+.footer-bar {
+    height: 10vh;
+    width: 100%;
+    text-align: center;
+    color: #FFFFFF;
+    background-color: #414141;
+}
